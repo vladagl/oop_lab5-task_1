@@ -1,0 +1,15 @@
+D:\vl\oop\oop_lab5_1\bin\Debug\net6.0\oop_lab5_1.exe
+D:\vl\oop\oop_lab5_1\bin\Debug\net6.0\oop_lab5_1.deps.json
+D:\vl\oop\oop_lab5_1\bin\Debug\net6.0\oop_lab5_1.runtimeconfig.json
+D:\vl\oop\oop_lab5_1\bin\Debug\net6.0\oop_lab5_1.dll
+D:\vl\oop\oop_lab5_1\bin\Debug\net6.0\oop_lab5_1.pdb
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.csproj.AssemblyReference.cache
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.AssemblyInfoInputs.cache
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.AssemblyInfo.cs
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.csproj.CoreCompileInputs.cache
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.dll
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\refint\oop_lab5_1.dll
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.pdb
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\oop_lab5_1.genruntimeconfig.cache
+D:\vl\oop\oop_lab5_1\obj\Debug\net6.0\ref\oop_lab5_1.dll
